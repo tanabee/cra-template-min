@@ -9,6 +9,7 @@ An minimal template for create-react-app
   - src/App.test.js
   - src/logo.svg
   - src/setupTests.js
+  - src/serviceWorker.js
 - Add jsconfig.json
 
 ## Usage
