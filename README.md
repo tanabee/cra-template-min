@@ -13,6 +13,10 @@ An minimal template for create-react-app
   - src/setupTests.js
 - Add jsconfig.json
 
+## Demo
+
+[![CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://githubbox.com/tanabee/cra-template-min/tree/output)
+
 ## Usage
 
 ```
