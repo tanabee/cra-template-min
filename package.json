@@ -1,6 +1,6 @@
 {
   "name": "cra-template-min",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "keywords": ["react", "create-react-app", "template"],
   "description": "An minimal template for Create React App",
   "main": "template.json",
